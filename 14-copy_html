@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *.html holberton-systems_engineering-devops
+cp -R . ..
