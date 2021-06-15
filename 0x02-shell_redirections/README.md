@@ -1,0 +1,1 @@
+these are a series of clever tasks with a chmod command in developing a working enviornment.
