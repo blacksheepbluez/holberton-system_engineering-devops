@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "b[i]n" /etc/ssh/sshd_config
+grep "b[ip]n" /etc/ssh/sshd_config
