@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "[k]aufee" /etc/ssh/sshd_config
+grep -i B /etc/ssh/sshd_config
