@@ -1,2 +1,2 @@
 #!/bin/bash
-getent passwd /etc/passwd | -d: -f1
+getent passwd /etc/passwd | cat etc/passwd
