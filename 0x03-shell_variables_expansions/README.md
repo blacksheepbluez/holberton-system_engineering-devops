@@ -1,0 +1,1 @@
+This is an interesting quest on making an alias with the use of the #!shebang!
