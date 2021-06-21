@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#working with the until loop/function to have Holberton School printed 10 times.
+Holberton=1; until [ $Holberton -gt 10 ]; do echo "Holberton School"; (( Holberton=Holberton+1 )); done
