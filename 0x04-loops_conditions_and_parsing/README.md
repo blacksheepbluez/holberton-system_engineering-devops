@@ -1,0 +1,1 @@
+this adventure begins with learning about starting and creating an SSH with a keygen. Basically starting a server to work from that has more ownership than a sandbox (from what i understand).
