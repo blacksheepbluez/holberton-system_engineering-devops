@@ -1,0 +1,1 @@
+this directory is continuing the bash script using a shebang. But also applying linux signals and processes for the shell envioronment.
