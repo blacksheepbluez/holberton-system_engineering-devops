@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#the process is either easier than it looks, or the pros just make it easy and it's harder than it looks...
+pgrep bash
