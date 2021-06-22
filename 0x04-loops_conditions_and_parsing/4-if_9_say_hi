@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #using the while coding format, i am adding a break for the new line to express "hi" for "holberton school"
-Holberton=0
-while [ $Holberton -lt 9 ]
+Holberton=1
+while [ $Holberton -lt 10 ]
 do echo "Holberton School";
    (( Holberton++ ))
-   if [ $Holberton = 8 ]; then echo "Hi";
+   if [ $Holberton = 9 ]; then echo "Hi";
 fi;
 done
