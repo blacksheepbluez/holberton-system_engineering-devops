@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 #this is a pause command button, with a kill switch.
-pgrep -f "4-to_infinity_and_beyond";
-kill
+kill -9 pgrep -f $( "4-to_infinity_and_beyond" )
