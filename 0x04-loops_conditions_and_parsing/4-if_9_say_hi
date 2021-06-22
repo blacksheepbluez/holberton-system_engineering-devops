@@ -4,6 +4,6 @@ Holberton=0
 while [ $Holberton -lt 9 ]
 do echo "Holberton School";
    (( Holberton++ ))
-   if [ $Holberton = 8 ]; then echo "hi";
+   if [ $Holberton = 8 ]; then echo "Hi";
 fi;
 done
