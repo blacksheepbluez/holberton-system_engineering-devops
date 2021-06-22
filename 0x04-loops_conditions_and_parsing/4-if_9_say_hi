@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #using the while coding format, i am adding a break for the new line to express "hi" for "holberton school"
-Holberton=1
+Holberton=0
 while [ $Holberton -lt 10 ]
 do echo "Holberton School";
    (( Holberton++ ))
