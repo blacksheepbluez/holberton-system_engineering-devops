@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#this is a clever program to make things a little more random.
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2s
+    trap "echo I am invincible!!!" SIGTERM
+done
