@@ -3,8 +3,8 @@
 Holberton=0
 while [ $Holberton -lt 10 ]
 do echo "Holberton School";
-   (( Holberton++ ))
-   if [ $Holberton = 4 ]; then echo "bad luck";
-			       elif [ $Holberton = 8 ]; then echo "good luck";
+      if [ $Holberton = 4 ]; then echo "bad luck";
+      elif [ $Holberton = 8 ]; then echo "good luck";
+				    (( Holberton++ ))
    fi;
    done
