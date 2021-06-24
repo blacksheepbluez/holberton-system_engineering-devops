@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#writing good luck and bad luck in the numbers of chinese traditions
+Holberton=0
+while [ $Holberton -lt 10 ]
+do echo "Holberton School";
+   (( Holberton++ ))
+   if [ $Holberton = 4 ]; then echo "bad luck";
+			       elif [ $Holberton = 8 ]; then echo "good luck";
+   fi;
+   done
